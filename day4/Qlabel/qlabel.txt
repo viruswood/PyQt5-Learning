@@ -1,0 +1,11 @@
+setAlignment() :设置文本对齐方式
+setIndent()：设置文本缩进
+text()获取文本内容
+setBuddy设置伙伴关系
+selectdText()返回选择的字符
+setWordWrap()设置是否允许换行
+
+
+Qlabel常用的信号（事件）
+鼠标滑过 linkHovered
+鼠标点击 linkActivated

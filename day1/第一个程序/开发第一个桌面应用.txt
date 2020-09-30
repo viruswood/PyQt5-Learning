@@ -1,0 +1,10 @@
+必须使用两个类 QApplication QWidget
+
+安装QtDesigner
+1 安装Qt
+2 Anocanda
+3 pyqt5-tools
+ 将.ui文件转为.py文件
+ 1 使用python命令 python -m PYQt5.uic.pyuic demo.ui -o  demo.py
+ 2 直接调用pyuic anoconda  pyuic demo.ui -o demo.py
+ 3 扩展工具
